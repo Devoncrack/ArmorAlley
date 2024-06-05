@@ -13,7 +13,7 @@
       ████████▀▀▀▀▀▀▀▀████▀█▀▀▀▀█▀
        ██▀              ██▘▘ ██▘▘
 
- A R M O R  A L L E Y :: R E M A S T E R E D
+ A R M O R  A L L E Y :: R E M A S T E R E 
 ~~~
 
 A browser-based interpretation of the Macintosh + MS-DOS releases of Armor Alley.
